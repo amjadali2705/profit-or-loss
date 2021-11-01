@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: rgb(250, 11, 250);
+}
+
+label {
+    display: block;
+    padding: 1rem;
+}
+
+#output-box {
+    margin: 1rem;
+}
